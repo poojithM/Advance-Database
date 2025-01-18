@@ -1,0 +1,14 @@
+ipykernel
+langchain
+openai
+langchain_openai
+streamlit
+python-dotenv
+langchain_community
+PyPDF2
+faiss-cpu
+google-generativeai
+arxiv
+wikipedia
+langchain_huggingface
+huggingface_hub
